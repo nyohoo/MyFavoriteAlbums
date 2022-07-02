@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:nyohoo/MyFavoriteAlbums-front.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:nyohoo/MyFavoriteAlbums-backend.git
