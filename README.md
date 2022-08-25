@@ -55,10 +55,5 @@
   なので、自分の好みの音楽をサービスを通してシェアしてもらい、  
   また、いろんな人の音楽の好みを知り、交流が始まる一つのきっかけとなるサービスになれば嬉しいです！
   
+## ER図
   https://app.diagrams.net/?src=about#Hnyohoo%2FMyFavoriteAlbums%2FREADME%25E4%25BD%259C%25E6%2588%2590%2FMyFavoriteAlbums
-
-## ■スケジュール  
-  README~ER図作成：5/29〆切  
-  メイン機能実装：6/14〆切  
-  β版をRUNTEQ内リリース（MVP）：6/14〆切  
-  本番リリース：6月末  
