@@ -1,5 +1,8 @@
 # MyFavoriteAlbums
 
+## サービスURL
+https://my-favorite-albums.jp/list
+
 ## ■サービス概要  
 好きな音楽のアルバムを  
 「#私を構成する9枚」という共通のフォーマットを介して  
